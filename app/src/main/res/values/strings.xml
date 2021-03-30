@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+
+    <string name="category_damn">DAMN</string>
+
+    <string name="category_take_care">Take Care</string>
+
+    <string name="category_astroworld">Astroworld</string>
+
+</resources>
